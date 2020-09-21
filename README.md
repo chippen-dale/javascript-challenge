@@ -5,3 +5,4 @@ Consists of three files:
 The app.js contains the logic that selects the data from the data.js file, finds the table body, builds the html structure and populates the data. 
 In addition. the app.js file also captures the input field (datetime) that then filters the list, and rebuilds the html structure and data.  
 
+Note:  I worked on the optional Part 2 but could not get the filter to work correctly. 
